@@ -1,14 +1,14 @@
 # StartersGuide
 
 Beginners guide
-1. Application Developtment Process
-    Waterfall method
-    Agile Deployment process 
-2. Technologies and Terms
-    2.1. Algorithms
-    2.2. Datastructures
-    2.3. System Design
-    2.4. Application lifecycle
+   1. Application Developtment Process
+      Waterfall method
+      Agile Deployment process 
+   2. Technologies and Terms
+       2.1. Algorithms
+       2.2. Datastructures
+       2.3. System Design
+       2.4. Application lifecycle
         2.4.1. Requirements Capture
         2.4.2. Requirements Analysis
         2.4.3. Design
