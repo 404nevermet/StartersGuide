@@ -26,33 +26,33 @@ Beginners guide
             1. Cloud
             1. Scripts
             
-        2.4.5. Testing
-            Automation
-            Regression
-            Load Testing
-            Performance Testing
+        1. Testing
+           1. Automation
+           1. Regression
+           1. Load Testing
+           1. Performance Testing
             
-        2.4.6. Deployment
-            2.4.6.1 Infastructure  
-            IAC Infastructure as Code
-            2.4.6.2 CICD process
-            a
-        2.4.7. SRE
-            Monitoring and Observability
-3. Career paths
-    Developers
-    Quality Assurance Engineers
-    Operations Engineers
-        DevOps 
-        SRE 
-    Support Engineers
+        1. Deployment
+            1. Infastructure  
+            1. IAC Infastructure as Code
+            1. CICD process
+            
+        1. SRE
+            1. Monitoring and Observability
+1. Career paths
+  1. Developers
+  1. Quality Assurance Engineers
+  1. Operations Engineers
+     1. DevOps 
+     1. SRE 
+    1. Support Engineers
 
 4. Type Companies and Expectations
-    Product Companies
-    OPD Outsourced product Companies
-    Services 
-    Consulting
-    Startups
+   1. Product Companies
+   1. OPD Outsourced product Companies
+   1. Services 
+   1. Consulting
+   1. Startups
 
 
 
