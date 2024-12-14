@@ -30,18 +30,17 @@ The goal here is to make your transition into the world of DevOps smoother and l
   
 The DevOps Core section focuses on essential practices and tools that form the backbone of DevOps methodologies.
 
-1. Linux
-1. Version Control with Git
-1. Build and Deployment Automation(CI/CD)
-1. Containers & Container Orchestration
-1. AWS Core Services
-1. Infrastructure as Code
-1. Configuration Management
+1. [Linux](./Core/1_Linux.md)
+1. [Version Control with Git](./Core/2_VersionControlWithGit.md)
+1. [Build and Deployment(CI/CD)](./Core/3_BuildAndDeployment.md)
+1. [Containers & Container Orchestration](./Core/4_ContainersAndContainerOrchestration.md)
+1. [AWS Core Services](./Core/5_AWSCoreServices.md)
+1. [Infrastructure as Code](./Core/6_InfrastructureAsCode.md)
+1. [Configuration Management](./Core/7_ConfigurationManagement.md)
 
 ### Devops Advanced
 
 The DevOps Advanced section builds upon the core concepts, focusing on more complex topics and specialized AWS services
-
 1. Advanced AWS Services
 1. Automation with Python
 1. Monitoring
