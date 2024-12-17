@@ -1,7 +1,5 @@
 # 5. AWS Core Service
 
-
-
 ### Resources
 #### Blogs
     * [AWS Official Documentation](https://docs.aws.amazon.com/)
