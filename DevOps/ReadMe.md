@@ -6,7 +6,6 @@
 * Ask questions: If something isn't clear, seek clarification from online communities or mentors.
 
 ## RoadMap
-
 Entire road map is devided into  3 sections.
 
 ### Prerequisites
@@ -30,7 +29,8 @@ The goal here is to make your transition into the world of DevOps smoother and l
   
 The DevOps Core section focuses on essential practices and tools that form the backbone of DevOps methodologies.
 
-1. [Linux](./Core/1_Linux.md)
+1. DevOps Overview
+1[Linux](./Core/1_Linux.md)
 1. [Version Control with Git](./Core/2_VersionControlWithGit.md)
 1. [Build and Deployment(CI/CD)](./Core/3_BuildAndDeployment.md)
 1. [Containers & Container Orchestration](./Core/4_ContainersAndContainerOrchestration.md)
